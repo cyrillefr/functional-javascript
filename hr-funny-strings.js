@@ -5,7 +5,7 @@
 
 //Idea: instead of iterate over the same array with differents indexes
 //and process the char difference,
-//Compute 2 arrays and apply map with a function
+//Compute 2 arrays and apply map with a function (could have factorized)
 
 //Then every function to check if cond true for every item
 
